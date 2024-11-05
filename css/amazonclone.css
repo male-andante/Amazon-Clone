@@ -1,0 +1,23 @@
+
+/* Design System e Componenti */
+
+/*Tipografia*/
+p, h1, h2, h3, h4, h5, h6, span, a, button{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+/*Default layout di pagina*/
+
+body{
+    margin: 0;
+    height: 100vh;;
+}
+
+main{
+    background-color:   #EAEDED;
+}
