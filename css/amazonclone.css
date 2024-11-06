@@ -7,10 +7,6 @@ p, h1, h2, h3, h4, h5, h6, span, a, button{
 }
 
 
-
-
-
-
 /*Default layout di pagina*/
 
 body{
@@ -20,4 +16,11 @@ body{
 
 main{
     background-color:   #EAEDED;
+}
+
+header{
+    background-color: #232F3E;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
 }
